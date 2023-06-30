@@ -10,3 +10,8 @@ let varSinValor: number = price || 10;
 
 console.log(varSinValor)
 
+
+
+type Sizes = "S" | "M" | "X" | "XL";
+
+const medida: Sizes = "X";
